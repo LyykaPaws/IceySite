@@ -7,11 +7,11 @@ disableKinds = ["taxonomy", "term"]
 
 [params.author]
    name = "Iceberg LaFortuna"
-   headline = "A silly dog on the internet"
-   image = "author.jpg"  # path relative to static directory
+   headline = "Beyond the Hyper~~"
+   image = "iceberg.png"  # path relative to static directory
 
   links = [
-     { bluesky = "https://bsky.app/profile/icebergfortuna.bsky.social" },
+     { bluesky = "https://bsky.app/profile/icebergfortuna.lyykapaws.com" },
   ]
 
 [module]
