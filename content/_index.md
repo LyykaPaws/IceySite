@@ -1,3 +1,3 @@
 ---
-title: 'Iceberg LaFortuna'
+title: 'Iceberg La Fortuna'
 ---
