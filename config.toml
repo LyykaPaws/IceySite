@@ -6,7 +6,7 @@ enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [params.author]
-   name = "Iceberg LaFortuna"
+   name = "Iceberg La Fortuna"
    headline = "Beyond the Hyper~~"
    image = "iceberg.png"  # path relative to static directory
 
